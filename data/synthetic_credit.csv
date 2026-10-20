@@ -1,0 +1,1201 @@
+months_loan_duration,credit_history,age,amount,checking_balance,percent_of_income,employment_duration,default
+10.0,limited,\,1286.46,> 200 DM,3,4 - 7 years,0
+48.0,poor,45.0,1394.73,> 200 DM,2,4 - 7 years,0
+42.0,poor,75.0,12056.1,0 DM,1,< 1 year,0
+30.0,limited,62.0,7872.51,0 DM,1,1 - 4 years,0
+29.0,poor,55.0,1867.51,0 DM,1,< 1 year,0
+53.0,poor,70.0,1926.91,> 200 DM,1,unemployed,1
+10.0,poor,47.0,1156.34,1 - 200 DM,3,unemployed,0
+44.0,good,59.0,706.07,0 DM,3,> 7 years,0
+17.0,limited,34.0,2262.05,0 DM,4,1 - 4 years,0
+11.0,good,73.0,1275.89,unknown,3,unemployed,0
+34.0,good,54.0,2309.64,1 - 200 DM,4,unemployed,1
+59.0,limited,63.0,862.53,> 200 DM,3,< 1 year,0
+46.0,poor,44.0,1487.3,1 - 200 DM,2,> 7 years,0
+47.0,poor,68.0,2688.15,0 DM,3,< 1 year,0
+45.0,good,22.0,3096.53,1 - 200 DM,2,> 7 years,0
+49.0,good,24.0,3201.44,0 DM,2,1 - 4 years,0
+34.0,limited,47.0,1034.51,> 200 DM,2,4 - 7 years,0
+13.0,poor,60.0,4253.71,1 - 200 DM,3,4 - 7 years,0
+52.0,good,64.0,1450.79,1 - 200 DM,2,unemployed,0
+30.0,limited,43.0,3682.54,0 DM,3,unemployed,0
+33.0,poor,55.0,2423.78,unknown,4,> 7 years,0
+26.0,limited,50.0,997.6,0 DM,2,> 7 years,1
+16.0,poor,73.0,1987.18,> 200 DM,2,unemployed,0
+56.0,poor,55.0,3094.82,unknown,2,4 - 7 years,0
+48.0,limited,42.0,3635.23,> 200 DM,4,> 7 years,0
+41.0,limited,74.0,2226.88,> 200 DM,1,> 7 years,0
+28.0,good,24.0,6605.49,unknown,4,< 1 year,1
+51.0,limited,,4697.95,0 DM,2,> 7 years,0
+35.0,limited,26.0,2065.6,unknown,4,4 - 7 years,0
+30.0,poor,34.0,3974.2,> 200 DM,4,> 7 years,0
+30.0,good,65.0,8578.08,1 - 200 DM,4,unemployed,0
+18.0,good,60.0,8728.2,1 - 200 DM,4,4 - 7 years,0
+11.0,,74.0,1098.61,> 200 DM,1,unemployed,0
+36.0,good,61.0,1336.43,unknown,3,< 1 year,0
+54.0,limited,54.0,6407.33,> 200 DM,1,unemployed,0
+9.0,limited,38.0,1226.74,0 DM,2,1 - 4 years,0
+53.0,poor,18.0,1033.13,1 - 200 DM,1,> 7 years,0
+51.0,poor,25.0,1779.3,> 200 DM,3,4 - 7 years,0
+21.0,limited,35.0,3207.18,1 - 200 DM,3,< 1 year,0
+40.0,poor,20.0,2283.45,unknown,3,1 - 4 years,0
+15.0,poor,,1599.0,> 200 DM,1,< 1 year,0
+47.0,poor,63.0,1574.61,0 DM,2,4 - 7 years,0
+44.0,good,73.0,1536.07,> 200 DM,3,< 1 year,0
+25.0,good,46.0,1377.9,0 DM,4,unemployed,0
+9.0,poor,68.0,10754.3,1 - 200 DM,4,1 - 4 years,0
+59.0,,75.0,2961.3,1 - 200 DM,1,> 7 years,0
+30.0,good,67.0,4343.32,unknown,2,1 - 4 years,1
+55.0,good,44.0,1775.97,unknown,1,< 1 year,0
+43.0,good,36.0,2162.73,1 - 200 DM,4,unemployed,0
+48.0,limited,74.0,1534.85,> 200 DM,1,> 7 years,0
+47.0,poor,32.0,435.45,> 200 DM,4,4 - 7 years,0
+16.0,poor,41.0,996.54,> 200 DM,1,unemployed,0
+26.0,poor,22.0,752.27,> 200 DM,1,unemployed,0
+31.0,good,64.0,565.46,unknown,4,unemployed,0
+33.0,limited,55.0,1122.17,unknown,2,< 1 year,0
+8.0,good,22.0,5774.58,unknown,2,> 7 years,0
+36.0,good,30.0,2371.12,0 DM,3,unemployed,0
+14.0,limited,50.0,5646.93,1 - 200 DM,2,> 7 years,0
+,poor,49.0,3187.97,1 - 200 DM,3,unemployed,0
+43.0,good,64.0,4058.88,> 200 DM,2,4 - 7 years,0
+56.0,poor,,1358.88,> 200 DM,2,< 1 year,0
+46.0,good,71.0,3430.87,> 200 DM,2,> 7 years,0
+26.0,limited,43.0,3919.28,1 - 200 DM,1,1 - 4 years,0
+59.0,limited,65.0,1677.7,1 - 200 DM,2,< 1 year,0
+28.0,,31.0,3511.16,1 - 200 DM,3,< 1 year,0
+23.0,poor,,3526.36,unknown,1,> 7 years,1
+55.0,good,21.0,1707.51,1 - 200 DM,1,1 - 4 years,0
+26.0,poor,39.0,1176.38,0 DM,3,< 1 year,0
+,good,73.0,1130.39,unknown,2,4 - 7 years,0
+31.0,good,20.0,2581.77,0 DM,1,1 - 4 years,0
+49.0,poor,39.0,3018.62,> 200 DM,3,4 - 7 years,1
+16.0,limited,24.0,1458.05,unknown,4,1 - 4 years,0
+31.0,limited,72.0,2483.14,1 - 200 DM,1,unemployed,0
+13.0,good,57.0,3536.35,1 - 200 DM,1,unemployed,0
+43.0,limited,62.0,3647.6,1 - 200 DM,2,unemployed,0
+32.0,good,59.0,6692.36,0 DM,3,1 - 4 years,0
+24.0,limited,56.0,5597.29,0 DM,1,1 - 4 years,1
+18.0,good,,1273.04,0 DM,4,4 - 7 years,0
+37.0,poor,,7290.53,1 - 200 DM,2,> 7 years,0
+42.0,good,68.0,1728.25,> 200 DM,1,unemployed,1
+57.0,limited,60.0,4813.44,0 DM,4,> 7 years,1
+30.0,good,60.0,2550.87,unknown,1,> 7 years,0
+14.0,limited,40.0,1867.03,> 200 DM,1,4 - 7 years,0
+51.0,good,64.0,753.7,0 DM,4,1 - 4 years,0
+40.0,poor,40.0,2183.06,unknown,3,unemployed,0
+44.0,good,20.0,885.72,0 DM,2,unemployed,0
+11.0,limited,70.0,4576.75,> 200 DM,3,unemployed,0
+23.0,poor,31.0,6541.46,1 - 200 DM,3,4 - 7 years,0
+48.0,limited,23.0,1453.9,> 200 DM,3,1 - 4 years,1
+51.0,limited,54.0,2969.89,unknown,1,unemployed,1
+29.0,poor,31.0,1523.09,unknown,3,unemployed,0
+50.0,good,67.0,1622.11,1 - 200 DM,2,unemployed,0
+52.0,good,43.0,4037.66,> 200 DM,4,4 - 7 years,1
+27.0,good,18.0,2380.22,unknown,3,4 - 7 years,1
+55.0,limited,73.0,7561.09,> 200 DM,1,4 - 7 years,0
+21.0,limited,47.0,1783.89,unknown,4,unemployed,0
+19.0,poor,33.0,4673.06,1 - 200 DM,2,unemployed,0
+43.0,limited,,2600.14,1 - 200 DM,2,unemployed,0
+41.0,good,48.0,4093.91,> 200 DM,4,4 - 7 years,0
+13.0,limited,19.0,1825.02,unknown,4,4 - 7 years,0
+51.0,poor,62.0,2363.24,unknown,4,< 1 year,0
+16.0,good,41.0,2264.08,> 200 DM,3,unemployed,0
+50.0,good,58.0,1417.38,> 200 DM,4,< 1 year,0
+6.0,poor,69.0,3753.16,> 200 DM,1,> 7 years,0
+49.0,poor,53.0,3724.4,1 - 200 DM,3,unemployed,0
+49.0,good,56.0,3589.65,1 - 200 DM,2,4 - 7 years,0
+48.0,poor,32.0,6627.8,1 - 200 DM,2,1 - 4 years,0
+42.0,good,31.0,6260.87,unknown,1,unemployed,0
+31.0,limited,42.0,1912.73,> 200 DM,1,> 7 years,0
+44.0,poor,67.0,3110.33,unknown,2,1 - 4 years,0
+21.0,good,48.0,1627.27,0 DM,4,4 - 7 years,1
+48.0,poor,,2477.94,unknown,3,unemployed,0
+36.0,limited,63.0,1652.7,> 200 DM,2,< 1 year,1
+31.0,poor,67.0,6995.66,unknown,2,4 - 7 years,1
+33.0,limited,70.0,3091.48,1 - 200 DM,3,4 - 7 years,0
+37.0,poor,35.0,2118.11,1 - 200 DM,1,unemployed,0
+8.0,limited,59.0,5302.07,0 DM,3,4 - 7 years,0
+13.0,good,52.0,595.32,unknown,3,> 7 years,0
+19.0,good,44.0,659.07,> 200 DM,1,4 - 7 years,0
+12.0,poor,41.0,4094.07,unknown,3,< 1 year,0
+30.0,limited,24.0,2538.44,0 DM,3,> 7 years,1
+42.0,limited,33.0,2872.08,0 DM,3,4 - 7 years,0
+41.0,limited,49.0,1030.54,unknown,2,unemployed,0
+31.0,limited,69.0,2404.02,0 DM,3,unemployed,0
+53.0,poor,68.0,8975.74,> 200 DM,4,> 7 years,0
+,good,28.0,4170.24,1 - 200 DM,1,< 1 year,0
+10.0,limited,57.0,2725.23,unknown,3,unemployed,0
+48.0,poor,22.0,1834.66,unknown,3,1 - 4 years,0
+37.0,good,,1888.48,unknown,2,1 - 4 years,0
+40.0,,37.0,611.57,1 - 200 DM,2,1 - 4 years,0
+37.0,limited,44.0,2885.54,> 200 DM,4,4 - 7 years,0
+36.0,good,59.0,4228.34,> 200 DM,2,> 7 years,0
+10.0,good,42.0,876.42,unknown,3,4 - 7 years,1
+36.0,limited,64.0,1587.76,0 DM,1,unemployed,0
+49.0,good,48.0,1150.15,unknown,4,unemployed,0
+22.0,good,75.0,1303.13,1 - 200 DM,3,unemployed,0
+39.0,limited,55.0,2526.94,0 DM,4,< 1 year,0
+7.0,poor,,629.63,> 200 DM,3,< 1 year,0
+25.0,limited,62.0,3638.31,unknown,2,> 7 years,0
+,poor,41.0,3983.86,0 DM,2,< 1 year,1
+,good,48.0,2073.06,0 DM,3,unemployed,0
+17.0,good,25.0,486.65,unknown,4,> 7 years,0
+21.0,limited,24.0,1277.08,unknown,1,< 1 year,0
+28.0,good,51.0,5439.19,0 DM,4,> 7 years,0
+60.0,poor,28.0,401.14,unknown,4,4 - 7 years,0
+52.0,poor,75.0,1947.13,unknown,1,> 7 years,0
+7.0,poor,67.0,1133.43,unknown,1,> 7 years,0
+18.0,limited,58.0,4117.37,0 DM,3,unemployed,0
+51.0,poor,60.0,1573.69,> 200 DM,4,4 - 7 years,0
+9.0,poor,52.0,3173.44,unknown,2,1 - 4 years,0
+53.0,poor,21.0,3524.7,unknown,3,4 - 7 years,0
+21.0,poor,40.0,8050.96,> 200 DM,4,4 - 7 years,0
+,limited,46.0,2138.99,0 DM,2,1 - 4 years,0
+22.0,good,71.0,3116.38,0 DM,1,< 1 year,0
+29.0,good,30.0,929.56,1 - 200 DM,4,> 7 years,0
+42.0,poor,46.0,5291.03,0 DM,2,4 - 7 years,1
+12.0,poor,37.0,1488.72,0 DM,2,> 7 years,0
+,good,,1695.12,0 DM,2,< 1 year,0
+33.0,,23.0,2405.56,unknown,3,> 7 years,0
+49.0,poor,39.0,883.71,> 200 DM,2,< 1 year,1
+60.0,good,22.0,2831.89,> 200 DM,3,1 - 4 years,0
+42.0,limited,21.0,4577.25,unknown,3,> 7 years,0
+28.0,limited,38.0,2952.5,1 - 200 DM,1,< 1 year,0
+28.0,poor,29.0,868.89,1 - 200 DM,2,< 1 year,0
+28.0,good,50.0,2251.89,0 DM,1,> 7 years,0
+50.0,good,19.0,3953.35,1 - 200 DM,1,> 7 years,1
+23.0,poor,35.0,720.04,0 DM,4,< 1 year,0
+15.0,good,,1213.67,> 200 DM,3,< 1 year,0
+24.0,poor,73.0,4314.57,unknown,3,< 1 year,0
+7.0,good,54.0,2908.99,> 200 DM,4,unemployed,0
+11.0,good,69.0,3190.02,1 - 200 DM,3,1 - 4 years,0
+10.0,poor,37.0,8173.66,> 200 DM,4,< 1 year,0
+48.0,limited,44.0,3309.52,unknown,3,> 7 years,0
+45.0,limited,42.0,3742.94,1 - 200 DM,2,unemployed,0
+44.0,good,69.0,14214.03,1 - 200 DM,3,4 - 7 years,0
+31.0,good,73.0,2123.94,> 200 DM,2,1 - 4 years,0
+45.0,,73.0,1452.99,0 DM,4,4 - 7 years,0
+14.0,poor,61.0,3223.0,unknown,1,unemployed,1
+55.0,limited,47.0,3246.54,1 - 200 DM,4,1 - 4 years,0
+33.0,limited,49.0,1733.04,1 - 200 DM,4,4 - 7 years,0
+,poor,74.0,1247.56,> 200 DM,1,< 1 year,0
+14.0,good,34.0,10953.33,0 DM,3,> 7 years,1
+33.0,good,38.0,3018.3,0 DM,4,1 - 4 years,0
+,good,70.0,1516.28,0 DM,3,< 1 year,0
+33.0,,40.0,4426.46,1 - 200 DM,2,unemployed,1
+30.0,good,31.0,2273.45,> 200 DM,4,unemployed,1
+15.0,good,50.0,2070.67,0 DM,3,1 - 4 years,0
+26.0,limited,36.0,3517.4,1 - 200 DM,1,1 - 4 years,0
+19.0,limited,69.0,1053.92,unknown,1,> 7 years,0
+22.0,poor,70.0,3069.31,unknown,3,4 - 7 years,0
+43.0,limited,35.0,8462.68,0 DM,2,unemployed,0
+40.0,limited,48.0,3304.42,> 200 DM,1,1 - 4 years,0
+39.0,limited,75.0,1911.15,0 DM,4,1 - 4 years,0
+25.0,limited,61.0,1755.28,> 200 DM,1,unemployed,0
+58.0,good,30.0,1869.22,unknown,1,4 - 7 years,0
+10.0,limited,52.0,2069.21,unknown,2,1 - 4 years,0
+24.0,limited,53.0,1909.17,0 DM,1,unemployed,1
+12.0,limited,55.0,4427.55,1 - 200 DM,2,1 - 4 years,0
+24.0,poor,19.0,791.09,unknown,4,4 - 7 years,0
+58.0,limited,35.0,4273.98,unknown,4,< 1 year,1
+26.0,limited,67.0,1906.84,1 - 200 DM,4,< 1 year,0
+55.0,limited,31.0,3118.22,0 DM,2,unemployed,0
+33.0,limited,35.0,1173.16,1 - 200 DM,1,< 1 year,0
+44.0,limited,36.0,5788.39,> 200 DM,4,> 7 years,1
+31.0,poor,28.0,5484.4,1 - 200 DM,2,4 - 7 years,0
+20.0,limited,27.0,4553.88,unknown,3,unemployed,1
+48.0,poor,38.0,911.79,unknown,1,1 - 4 years,1
+59.0,limited,68.0,4183.61,unknown,3,unemployed,1
+,limited,18.0,3175.29,0 DM,3,1 - 4 years,0
+48.0,limited,,859.69,unknown,4,unemployed,1
+20.0,poor,21.0,2402.36,unknown,1,4 - 7 years,0
+45.0,poor,50.0,3093.16,1 - 200 DM,2,1 - 4 years,0
+49.0,good,32.0,3503.26,> 200 DM,4,4 - 7 years,0
+30.0,poor,63.0,2738.65,unknown,2,1 - 4 years,0
+46.0,poor,51.0,2949.23,unknown,3,< 1 year,0
+20.0,poor,63.0,6360.41,> 200 DM,1,< 1 year,0
+10.0,limited,54.0,5414.97,0 DM,3,< 1 year,0
+11.0,limited,43.0,378.58,> 200 DM,2,1 - 4 years,0
+30.0,good,67.0,1985.58,> 200 DM,3,1 - 4 years,1
+55.0,poor,45.0,2192.89,0 DM,4,4 - 7 years,0
+13.0,limited,73.0,781.44,unknown,3,unemployed,0
+31.0,limited,75.0,2594.68,0 DM,2,< 1 year,0
+44.0,limited,52.0,5495.54,unknown,1,> 7 years,0
+17.0,limited,57.0,1204.39,> 200 DM,2,> 7 years,0
+45.0,limited,32.0,3037.11,1 - 200 DM,4,> 7 years,1
+22.0,limited,65.0,1345.76,0 DM,1,< 1 year,0
+50.0,poor,56.0,1576.96,0 DM,3,unemployed,0
+37.0,good,70.0,6376.06,> 200 DM,2,unemployed,0
+36.0,poor,33.0,1715.29,1 - 200 DM,2,unemployed,0
+15.0,limited,63.0,3295.91,unknown,3,> 7 years,0
+31.0,good,45.0,723.22,0 DM,2,> 7 years,0
+53.0,limited,28.0,8188.67,unknown,2,> 7 years,1
+7.0,poor,27.0,3610.94,unknown,3,4 - 7 years,0
+47.0,limited,50.0,2167.6,0 DM,4,< 1 year,0
+33.0,good,36.0,3547.88,> 200 DM,4,1 - 4 years,0
+45.0,limited,23.0,976.15,unknown,3,> 7 years,1
+42.0,poor,42.0,5263.99,1 - 200 DM,3,> 7 years,1
+29.0,poor,55.0,1977.15,0 DM,4,1 - 4 years,0
+22.0,poor,36.0,2137.42,unknown,2,> 7 years,0
+40.0,poor,73.0,1772.99,1 - 200 DM,2,< 1 year,0
+13.0,limited,63.0,1673.34,0 DM,2,1 - 4 years,0
+38.0,good,47.0,3833.51,unknown,3,> 7 years,1
+11.0,limited,72.0,2882.29,> 200 DM,3,< 1 year,0
+41.0,limited,43.0,3728.03,0 DM,1,4 - 7 years,0
+40.0,good,26.0,2426.69,1 - 200 DM,4,1 - 4 years,0
+10.0,good,20.0,3406.97,0 DM,2,< 1 year,0
+,poor,72.0,1858.92,unknown,4,< 1 year,1
+28.0,limited,73.0,10397.55,0 DM,3,4 - 7 years,0
+49.0,limited,60.0,880.81,unknown,4,1 - 4 years,0
+8.0,limited,23.0,5539.22,> 200 DM,3,< 1 year,0
+15.0,limited,35.0,5938.07,> 200 DM,3,4 - 7 years,0
+33.0,poor,20.0,1402.62,unknown,1,unemployed,0
+16.0,poor,20.0,10394.46,unknown,2,unemployed,1
+24.0,good,32.0,4661.39,0 DM,4,> 7 years,0
+42.0,poor,51.0,4588.19,0 DM,2,4 - 7 years,0
+13.0,good,21.0,2485.46,0 DM,1,1 - 4 years,0
+43.0,good,75.0,2119.22,> 200 DM,1,unemployed,0
+11.0,limited,44.0,2130.01,> 200 DM,3,1 - 4 years,0
+15.0,limited,33.0,3145.87,0 DM,3,1 - 4 years,0
+38.0,poor,47.0,6067.92,0 DM,4,1 - 4 years,0
+49.0,good,63.0,2745.87,> 200 DM,4,unemployed,0
+15.0,good,36.0,1349.6,> 200 DM,3,1 - 4 years,0
+22.0,good,20.0,4170.86,1 - 200 DM,3,1 - 4 years,0
+56.0,limited,20.0,4441.5,unknown,4,< 1 year,1
+60.0,,67.0,3735.1,unknown,1,unemployed,0
+37.0,good,24.0,3962.28,unknown,3,> 7 years,0
+30.0,limited,54.0,2046.52,1 - 200 DM,2,4 - 7 years,0
+25.0,limited,40.0,1334.29,unknown,4,4 - 7 years,0
+39.0,limited,63.0,1388.08,> 200 DM,4,4 - 7 years,0
+38.0,good,21.0,842.98,> 200 DM,3,4 - 7 years,0
+22.0,poor,70.0,2846.99,1 - 200 DM,3,unemployed,0
+7.0,good,58.0,2311.75,unknown,3,1 - 4 years,0
+14.0,limited,44.0,1833.55,> 200 DM,3,> 7 years,0
+58.0,good,30.0,357.4,0 DM,1,< 1 year,0
+28.0,limited,74.0,1084.9,unknown,2,> 7 years,0
+32.0,poor,35.0,5057.09,0 DM,3,unemployed,0
+31.0,limited,46.0,1584.45,> 200 DM,3,< 1 year,1
+49.0,poor,40.0,3085.24,> 200 DM,1,< 1 year,0
+9.0,good,31.0,988.37,> 200 DM,4,4 - 7 years,0
+10.0,limited,42.0,6217.72,0 DM,4,unemployed,1
+21.0,,26.0,2222.49,1 - 200 DM,3,< 1 year,0
+32.0,poor,18.0,2946.95,unknown,1,4 - 7 years,0
+42.0,poor,34.0,11067.37,0 DM,4,< 1 year,1
+32.0,poor,,6539.96,> 200 DM,1,> 7 years,0
+30.0,poor,42.0,1999.66,unknown,2,> 7 years,0
+57.0,good,68.0,1659.72,unknown,4,< 1 year,1
+14.0,good,27.0,1975.14,> 200 DM,3,1 - 4 years,0
+37.0,good,18.0,3399.67,1 - 200 DM,1,< 1 year,0
+35.0,good,24.0,2279.26,> 200 DM,1,< 1 year,0
+32.0,limited,47.0,1887.66,1 - 200 DM,2,4 - 7 years,0
+50.0,good,33.0,6333.88,> 200 DM,3,< 1 year,0
+20.0,good,46.0,2265.98,> 200 DM,3,unemployed,0
+58.0,good,19.0,10880.56,> 200 DM,1,< 1 year,1
+24.0,limited,37.0,2588.89,0 DM,1,> 7 years,0
+35.0,poor,41.0,7788.92,unknown,3,< 1 year,0
+34.0,good,43.0,3078.68,> 200 DM,1,< 1 year,0
+52.0,poor,49.0,4563.86,unknown,1,4 - 7 years,1
+30.0,good,63.0,1523.86,> 200 DM,2,unemployed,0
+21.0,good,45.0,1401.16,unknown,3,< 1 year,0
+7.0,good,66.0,3290.55,unknown,1,unemployed,0
+26.0,limited,48.0,4640.42,unknown,1,> 7 years,1
+51.0,good,33.0,2505.31,> 200 DM,1,> 7 years,0
+6.0,poor,31.0,1057.69,> 200 DM,2,4 - 7 years,0
+55.0,limited,36.0,1008.11,0 DM,1,< 1 year,1
+35.0,limited,52.0,965.23,1 - 200 DM,1,4 - 7 years,0
+13.0,poor,32.0,773.59,1 - 200 DM,2,4 - 7 years,0
+22.0,good,71.0,2620.62,unknown,1,> 7 years,0
+36.0,poor,45.0,5070.93,> 200 DM,2,unemployed,0
+23.0,good,68.0,2419.41,1 - 200 DM,3,4 - 7 years,0
+11.0,,57.0,561.57,0 DM,1,unemployed,0
+42.0,,37.0,2155.99,> 200 DM,3,1 - 4 years,0
+42.0,poor,31.0,2195.53,1 - 200 DM,3,> 7 years,0
+12.0,poor,61.0,9531.9,0 DM,3,unemployed,0
+21.0,limited,37.0,946.58,1 - 200 DM,3,unemployed,0
+19.0,poor,32.0,1893.27,unknown,4,> 7 years,0
+42.0,limited,71.0,7396.81,0 DM,1,unemployed,1
+46.0,poor,45.0,3269.81,1 - 200 DM,1,4 - 7 years,0
+45.0,limited,20.0,3519.78,> 200 DM,2,1 - 4 years,0
+57.0,poor,46.0,2629.32,0 DM,3,< 1 year,0
+48.0,limited,44.0,3024.39,0 DM,4,> 7 years,0
+23.0,poor,68.0,4045.85,unknown,4,> 7 years,0
+11.0,limited,59.0,1442.07,> 200 DM,3,< 1 year,0
+39.0,poor,29.0,4318.82,0 DM,2,unemployed,0
+56.0,poor,26.0,999.79,0 DM,2,unemployed,0
+59.0,poor,53.0,3021.29,1 - 200 DM,1,unemployed,0
+18.0,limited,20.0,2741.28,> 200 DM,2,> 7 years,0
+19.0,poor,36.0,1635.02,> 200 DM,3,1 - 4 years,0
+8.0,good,26.0,2404.88,0 DM,1,4 - 7 years,0
+13.0,limited,19.0,1628.39,> 200 DM,4,< 1 year,0
+36.0,limited,71.0,1216.09,unknown,4,> 7 years,0
+36.0,good,23.0,1939.43,0 DM,2,4 - 7 years,0
+26.0,limited,18.0,1190.83,0 DM,4,4 - 7 years,0
+23.0,poor,72.0,3010.37,unknown,1,1 - 4 years,0
+51.0,good,28.0,1155.68,> 200 DM,4,4 - 7 years,0
+31.0,poor,65.0,3876.88,unknown,4,1 - 4 years,0
+50.0,,19.0,1132.34,1 - 200 DM,1,< 1 year,0
+58.0,good,26.0,1689.03,1 - 200 DM,3,1 - 4 years,0
+23.0,limited,24.0,1626.21,0 DM,2,< 1 year,0
+17.0,poor,58.0,5775.3,0 DM,4,> 7 years,0
+58.0,good,53.0,3025.07,1 - 200 DM,1,4 - 7 years,0
+40.0,poor,45.0,2126.8,0 DM,1,4 - 7 years,1
+22.0,poor,32.0,3375.06,unknown,2,4 - 7 years,0
+40.0,limited,23.0,620.38,> 200 DM,1,1 - 4 years,1
+34.0,limited,51.0,2373.13,unknown,2,> 7 years,0
+55.0,good,31.0,8940.83,> 200 DM,3,< 1 year,0
+20.0,limited,52.0,2659.85,1 - 200 DM,3,1 - 4 years,0
+60.0,poor,57.0,2550.75,> 200 DM,3,unemployed,0
+57.0,good,67.0,3485.21,0 DM,1,< 1 year,1
+15.0,limited,46.0,4368.36,unknown,1,1 - 4 years,0
+15.0,poor,18.0,666.24,> 200 DM,4,1 - 4 years,0
+35.0,poor,34.0,817.69,0 DM,2,> 7 years,0
+8.0,limited,67.0,2798.08,> 200 DM,1,4 - 7 years,1
+22.0,good,48.0,1533.53,> 200 DM,2,1 - 4 years,0
+29.0,good,53.0,5726.25,0 DM,1,1 - 4 years,0
+59.0,limited,44.0,1988.5,0 DM,2,4 - 7 years,1
+60.0,good,27.0,694.06,unknown,4,4 - 7 years,1
+14.0,good,70.0,1070.4,1 - 200 DM,2,< 1 year,0
+55.0,good,62.0,408.59,> 200 DM,3,1 - 4 years,1
+11.0,limited,75.0,2096.07,0 DM,2,1 - 4 years,0
+47.0,good,67.0,2159.32,> 200 DM,2,unemployed,0
+52.0,good,34.0,1852.14,0 DM,3,> 7 years,0
+54.0,poor,32.0,4921.02,1 - 200 DM,3,1 - 4 years,0
+18.0,good,32.0,5318.99,> 200 DM,2,< 1 year,0
+55.0,poor,71.0,2184.73,1 - 200 DM,1,4 - 7 years,0
+12.0,poor,50.0,609.38,> 200 DM,4,4 - 7 years,0
+34.0,poor,44.0,3645.44,0 DM,1,> 7 years,0
+31.0,poor,74.0,3501.63,1 - 200 DM,4,unemployed,0
+23.0,limited,52.0,2984.25,unknown,2,1 - 4 years,0
+7.0,poor,70.0,4619.13,1 - 200 DM,4,unemployed,0
+48.0,poor,75.0,1144.66,0 DM,2,1 - 4 years,0
+24.0,good,22.0,9006.4,unknown,3,1 - 4 years,0
+42.0,good,38.0,1308.15,unknown,3,1 - 4 years,0
+28.0,good,60.0,3971.88,> 200 DM,2,> 7 years,0
+26.0,good,65.0,815.03,unknown,1,1 - 4 years,0
+54.0,good,26.0,1333.19,unknown,3,1 - 4 years,1
+11.0,good,36.0,6539.65,> 200 DM,3,unemployed,0
+46.0,good,49.0,2059.9,> 200 DM,2,< 1 year,1
+47.0,good,64.0,4213.08,0 DM,4,> 7 years,0
+26.0,poor,24.0,2847.0,> 200 DM,3,1 - 4 years,0
+20.0,good,52.0,2279.65,1 - 200 DM,1,> 7 years,1
+6.0,good,35.0,5922.43,unknown,4,1 - 4 years,0
+57.0,good,30.0,2092.62,1 - 200 DM,1,1 - 4 years,0
+58.0,good,47.0,767.03,unknown,3,1 - 4 years,0
+19.0,good,42.0,1447.94,> 200 DM,2,1 - 4 years,0
+7.0,poor,54.0,3492.16,> 200 DM,3,unemployed,0
+12.0,poor,36.0,3156.06,unknown,4,unemployed,0
+9.0,limited,65.0,881.31,1 - 200 DM,3,1 - 4 years,1
+51.0,poor,22.0,1524.13,1 - 200 DM,3,1 - 4 years,0
+55.0,poor,67.0,1672.18,1 - 200 DM,4,1 - 4 years,0
+14.0,limited,19.0,1924.54,unknown,3,1 - 4 years,0
+47.0,good,60.0,997.9,unknown,4,< 1 year,0
+15.0,limited,38.0,1622.23,0 DM,2,4 - 7 years,0
+26.0,limited,40.0,1519.91,1 - 200 DM,1,4 - 7 years,0
+38.0,poor,19.0,4029.9,1 - 200 DM,1,unemployed,0
+45.0,limited,58.0,4129.57,> 200 DM,3,1 - 4 years,0
+54.0,good,27.0,2219.91,0 DM,3,4 - 7 years,0
+8.0,limited,56.0,1891.59,> 200 DM,1,4 - 7 years,0
+16.0,poor,60.0,2672.98,> 200 DM,1,< 1 year,0
+21.0,,67.0,1435.44,0 DM,4,> 7 years,0
+23.0,good,59.0,1158.13,0 DM,3,4 - 7 years,0
+60.0,limited,35.0,1324.59,> 200 DM,4,1 - 4 years,0
+48.0,poor,60.0,1615.45,1 - 200 DM,1,4 - 7 years,0
+23.0,good,65.0,1145.67,unknown,1,> 7 years,0
+59.0,poor,36.0,2711.72,unknown,2,< 1 year,0
+33.0,limited,25.0,3921.84,unknown,4,unemployed,0
+33.0,poor,69.0,869.91,> 200 DM,3,1 - 4 years,1
+29.0,good,26.0,2480.79,unknown,4,unemployed,0
+13.0,good,52.0,2115.49,0 DM,2,> 7 years,0
+57.0,good,31.0,3047.21,1 - 200 DM,2,> 7 years,0
+6.0,limited,25.0,2420.16,0 DM,3,4 - 7 years,1
+15.0,limited,,948.76,> 200 DM,4,> 7 years,1
+18.0,limited,26.0,1074.32,> 200 DM,2,unemployed,0
+21.0,poor,56.0,2487.73,1 - 200 DM,3,4 - 7 years,0
+13.0,limited,58.0,4763.36,1 - 200 DM,4,1 - 4 years,0
+6.0,poor,21.0,578.7,> 200 DM,2,< 1 year,0
+43.0,poor,28.0,3055.57,0 DM,4,< 1 year,0
+59.0,good,64.0,5288.31,> 200 DM,3,1 - 4 years,0
+12.0,poor,47.0,2209.53,> 200 DM,4,4 - 7 years,0
+22.0,poor,25.0,3489.91,0 DM,2,unemployed,0
+33.0,good,75.0,1545.35,0 DM,3,4 - 7 years,0
+57.0,poor,33.0,2258.4,1 - 200 DM,2,> 7 years,0
+44.0,limited,18.0,850.99,> 200 DM,3,unemployed,0
+48.0,poor,71.0,531.75,1 - 200 DM,2,> 7 years,0
+37.0,poor,18.0,4504.35,1 - 200 DM,3,4 - 7 years,0
+28.0,good,50.0,1286.59,> 200 DM,4,< 1 year,0
+16.0,good,75.0,1815.12,0 DM,2,4 - 7 years,0
+53.0,good,51.0,991.1,> 200 DM,2,4 - 7 years,0
+50.0,good,51.0,976.06,0 DM,2,4 - 7 years,0
+7.0,limited,40.0,2179.84,0 DM,3,unemployed,0
+45.0,,25.0,1518.95,0 DM,3,unemployed,0
+10.0,poor,51.0,3120.29,1 - 200 DM,3,4 - 7 years,0
+46.0,poor,70.0,3275.25,0 DM,1,< 1 year,0
+51.0,poor,23.0,3006.56,unknown,1,< 1 year,0
+13.0,poor,69.0,2850.05,1 - 200 DM,1,1 - 4 years,0
+29.0,poor,42.0,6805.93,unknown,4,4 - 7 years,0
+12.0,poor,49.0,1219.34,unknown,4,unemployed,0
+37.0,limited,27.0,2354.99,unknown,1,> 7 years,0
+57.0,poor,54.0,5096.19,unknown,1,1 - 4 years,0
+10.0,poor,28.0,5552.21,0 DM,4,unemployed,0
+27.0,poor,33.0,968.6,1 - 200 DM,3,unemployed,0
+59.0,good,59.0,1992.15,> 200 DM,2,> 7 years,0
+,good,20.0,5900.42,> 200 DM,3,unemployed,1
+13.0,good,43.0,3395.65,0 DM,1,1 - 4 years,0
+32.0,poor,52.0,2770.88,> 200 DM,1,4 - 7 years,0
+33.0,limited,25.0,2118.59,unknown,2,1 - 4 years,0
+42.0,limited,35.0,1901.75,unknown,4,< 1 year,0
+23.0,limited,,2943.46,1 - 200 DM,4,unemployed,0
+58.0,good,56.0,2071.35,0 DM,1,4 - 7 years,0
+34.0,limited,74.0,2373.98,1 - 200 DM,3,1 - 4 years,0
+21.0,limited,66.0,2568.53,1 - 200 DM,4,unemployed,0
+58.0,poor,29.0,1570.66,1 - 200 DM,4,unemployed,0
+56.0,good,19.0,3449.15,1 - 200 DM,4,1 - 4 years,0
+33.0,poor,21.0,16224.2,1 - 200 DM,1,unemployed,0
+7.0,limited,52.0,768.9,0 DM,1,< 1 year,0
+38.0,limited,27.0,3012.75,1 - 200 DM,1,unemployed,1
+36.0,poor,31.0,1489.02,1 - 200 DM,1,4 - 7 years,0
+14.0,poor,67.0,3552.16,0 DM,1,4 - 7 years,0
+40.0,poor,68.0,2515.59,unknown,2,4 - 7 years,0
+52.0,good,,4004.63,> 200 DM,3,unemployed,0
+11.0,poor,32.0,5240.01,unknown,2,< 1 year,0
+45.0,good,53.0,2765.77,> 200 DM,2,< 1 year,0
+13.0,limited,53.0,5094.08,0 DM,1,4 - 7 years,0
+47.0,limited,28.0,531.77,unknown,1,> 7 years,0
+29.0,poor,50.0,6862.27,1 - 200 DM,4,< 1 year,0
+6.0,poor,48.0,3114.4,> 200 DM,3,4 - 7 years,0
+59.0,limited,40.0,4917.71,1 - 200 DM,1,1 - 4 years,0
+15.0,poor,61.0,1104.43,1 - 200 DM,4,> 7 years,0
+38.0,limited,57.0,1422.26,1 - 200 DM,4,unemployed,0
+15.0,poor,48.0,2683.45,1 - 200 DM,4,> 7 years,0
+57.0,good,60.0,2413.72,> 200 DM,1,1 - 4 years,0
+46.0,good,62.0,2933.63,> 200 DM,3,< 1 year,0
+50.0,good,50.0,4939.08,0 DM,4,unemployed,0
+29.0,poor,33.0,774.8,0 DM,4,> 7 years,0
+31.0,poor,61.0,4596.19,unknown,1,> 7 years,1
+40.0,poor,59.0,2453.78,> 200 DM,4,unemployed,0
+49.0,good,75.0,2137.82,unknown,2,1 - 4 years,0
+52.0,limited,26.0,938.02,> 200 DM,2,4 - 7 years,0
+6.0,poor,42.0,3384.57,> 200 DM,3,1 - 4 years,1
+42.0,limited,71.0,508.18,unknown,4,unemployed,0
+12.0,poor,47.0,3719.92,> 200 DM,1,< 1 year,0
+21.0,,72.0,925.31,1 - 200 DM,3,< 1 year,1
+51.0,poor,18.0,2526.9,> 200 DM,4,< 1 year,0
+19.0,good,20.0,2258.69,0 DM,3,> 7 years,1
+49.0,good,64.0,5219.72,1 - 200 DM,2,< 1 year,0
+31.0,poor,38.0,2173.02,> 200 DM,1,4 - 7 years,0
+18.0,limited,48.0,1554.35,0 DM,3,> 7 years,0
+24.0,good,42.0,1755.85,> 200 DM,3,4 - 7 years,0
+35.0,poor,41.0,5582.4,> 200 DM,3,4 - 7 years,1
+48.0,limited,72.0,3458.51,1 - 200 DM,4,unemployed,0
+39.0,limited,23.0,1899.49,0 DM,3,unemployed,1
+57.0,poor,62.0,2092.91,> 200 DM,3,4 - 7 years,0
+53.0,good,69.0,881.24,unknown,1,4 - 7 years,0
+47.0,good,56.0,3141.67,> 200 DM,3,4 - 7 years,1
+39.0,poor,40.0,777.53,1 - 200 DM,1,1 - 4 years,0
+21.0,limited,27.0,3978.53,> 200 DM,3,1 - 4 years,1
+28.0,good,57.0,2653.42,1 - 200 DM,1,unemployed,0
+12.0,limited,45.0,11516.3,1 - 200 DM,4,< 1 year,0
+26.0,limited,26.0,1193.82,1 - 200 DM,2,1 - 4 years,0
+56.0,good,38.0,2283.05,0 DM,2,unemployed,0
+29.0,poor,73.0,7854.85,unknown,1,unemployed,0
+12.0,good,33.0,5294.39,> 200 DM,1,unemployed,0
+41.0,limited,28.0,1552.25,0 DM,4,< 1 year,0
+58.0,poor,57.0,2823.07,unknown,2,> 7 years,0
+53.0,good,29.0,2443.78,0 DM,3,4 - 7 years,1
+21.0,good,71.0,2931.51,> 200 DM,4,> 7 years,0
+30.0,,67.0,1549.76,0 DM,3,< 1 year,0
+,good,75.0,2302.94,1 - 200 DM,1,1 - 4 years,1
+19.0,,70.0,863.73,> 200 DM,2,> 7 years,0
+20.0,good,32.0,2664.66,unknown,2,< 1 year,0
+19.0,poor,30.0,3269.9,unknown,2,4 - 7 years,0
+60.0,limited,37.0,2105.22,unknown,1,4 - 7 years,0
+47.0,poor,,854.24,0 DM,3,> 7 years,0
+52.0,good,69.0,4640.35,0 DM,2,> 7 years,0
+50.0,poor,60.0,3093.14,unknown,2,4 - 7 years,0
+58.0,limited,55.0,1522.47,unknown,2,1 - 4 years,0
+11.0,good,68.0,2033.7,1 - 200 DM,2,> 7 years,0
+54.0,good,55.0,920.18,0 DM,1,4 - 7 years,0
+9.0,good,39.0,1253.23,> 200 DM,2,< 1 year,0
+32.0,limited,41.0,1720.59,0 DM,4,4 - 7 years,0
+38.0,good,47.0,5423.37,0 DM,3,1 - 4 years,1
+25.0,poor,23.0,1610.54,unknown,3,< 1 year,0
+14.0,limited,61.0,3700.19,1 - 200 DM,4,1 - 4 years,0
+,poor,55.0,1720.03,0 DM,3,4 - 7 years,0
+51.0,poor,60.0,2867.41,> 200 DM,1,> 7 years,0
+23.0,good,48.0,2226.29,1 - 200 DM,2,1 - 4 years,0
+23.0,good,63.0,4304.8,> 200 DM,2,unemployed,0
+56.0,good,73.0,1723.95,unknown,2,> 7 years,1
+13.0,limited,51.0,878.18,0 DM,1,1 - 4 years,0
+56.0,good,43.0,994.0,> 200 DM,1,< 1 year,1
+56.0,good,24.0,1727.24,unknown,2,4 - 7 years,0
+38.0,limited,63.0,1083.67,1 - 200 DM,4,< 1 year,0
+15.0,poor,70.0,3186.37,unknown,3,< 1 year,0
+14.0,poor,58.0,1803.08,1 - 200 DM,4,> 7 years,0
+21.0,limited,68.0,11424.26,1 - 200 DM,1,> 7 years,0
+37.0,poor,67.0,788.78,unknown,2,1 - 4 years,1
+14.0,limited,64.0,2786.0,> 200 DM,3,< 1 year,0
+31.0,poor,47.0,1172.43,unknown,2,> 7 years,0
+12.0,limited,23.0,1770.98,unknown,2,unemployed,0
+35.0,limited,18.0,2675.58,> 200 DM,2,4 - 7 years,0
+7.0,poor,29.0,538.35,0 DM,1,1 - 4 years,1
+44.0,good,42.0,2846.76,1 - 200 DM,4,> 7 years,0
+9.0,limited,61.0,8407.59,unknown,4,1 - 4 years,0
+16.0,good,44.0,1817.59,> 200 DM,1,> 7 years,0
+15.0,good,19.0,2889.61,1 - 200 DM,2,unemployed,0
+51.0,poor,30.0,4751.42,1 - 200 DM,3,4 - 7 years,0
+8.0,limited,74.0,2193.89,unknown,4,unemployed,1
+,good,75.0,1673.0,0 DM,4,4 - 7 years,0
+38.0,limited,39.0,556.0,0 DM,2,unemployed,1
+34.0,limited,64.0,3702.06,unknown,3,> 7 years,0
+43.0,limited,59.0,2267.52,1 - 200 DM,4,4 - 7 years,0
+50.0,poor,72.0,1263.64,unknown,4,unemployed,0
+27.0,good,69.0,2649.93,> 200 DM,2,> 7 years,0
+51.0,poor,54.0,1670.05,unknown,4,< 1 year,0
+23.0,good,40.0,1731.12,> 200 DM,2,1 - 4 years,0
+60.0,limited,54.0,3619.49,unknown,1,unemployed,0
+33.0,poor,36.0,1022.55,unknown,4,unemployed,0
+46.0,poor,38.0,4821.09,0 DM,4,< 1 year,0
+54.0,poor,53.0,983.88,unknown,2,1 - 4 years,0
+49.0,limited,51.0,1586.43,> 200 DM,2,1 - 4 years,0
+52.0,poor,51.0,8517.81,0 DM,2,> 7 years,1
+35.0,limited,40.0,5078.55,0 DM,1,unemployed,0
+8.0,limited,41.0,2600.46,1 - 200 DM,4,4 - 7 years,0
+33.0,limited,18.0,1324.32,0 DM,1,unemployed,0
+15.0,poor,52.0,1730.17,1 - 200 DM,3,< 1 year,0
+54.0,limited,51.0,2559.66,unknown,1,unemployed,0
+19.0,good,72.0,2500.86,1 - 200 DM,3,unemployed,0
+18.0,good,47.0,2300.62,0 DM,4,1 - 4 years,0
+19.0,poor,45.0,2392.18,1 - 200 DM,3,> 7 years,0
+41.0,limited,21.0,2123.15,0 DM,3,4 - 7 years,0
+37.0,good,29.0,955.96,unknown,4,> 7 years,0
+58.0,poor,37.0,1744.58,0 DM,4,1 - 4 years,0
+28.0,good,39.0,4422.7,unknown,4,unemployed,0
+21.0,poor,39.0,1002.83,1 - 200 DM,1,< 1 year,0
+8.0,good,40.0,2157.68,0 DM,3,> 7 years,0
+6.0,limited,62.0,1432.48,> 200 DM,4,unemployed,0
+26.0,limited,25.0,2623.8,1 - 200 DM,2,unemployed,0
+56.0,limited,,1895.79,unknown,3,> 7 years,1
+34.0,limited,27.0,6376.06,> 200 DM,1,unemployed,1
+55.0,good,35.0,3392.35,unknown,4,> 7 years,0
+11.0,poor,57.0,1040.37,1 - 200 DM,3,4 - 7 years,0
+11.0,good,20.0,3775.54,0 DM,3,4 - 7 years,0
+51.0,poor,37.0,1475.09,0 DM,4,1 - 4 years,0
+11.0,poor,19.0,1677.32,1 - 200 DM,1,unemployed,0
+8.0,limited,73.0,2992.85,1 - 200 DM,2,1 - 4 years,0
+28.0,good,60.0,1772.89,unknown,4,> 7 years,1
+56.0,limited,32.0,4360.56,1 - 200 DM,1,> 7 years,0
+43.0,,29.0,1475.23,unknown,4,1 - 4 years,1
+11.0,limited,23.0,1632.2,0 DM,2,> 7 years,0
+52.0,poor,45.0,1592.98,1 - 200 DM,3,4 - 7 years,0
+52.0,poor,61.0,1689.75,unknown,3,unemployed,0
+50.0,limited,51.0,4986.43,0 DM,3,4 - 7 years,0
+55.0,limited,69.0,3672.83,1 - 200 DM,4,4 - 7 years,1
+19.0,good,37.0,7416.51,unknown,2,1 - 4 years,0
+59.0,poor,34.0,10656.96,> 200 DM,1,4 - 7 years,0
+23.0,good,45.0,1248.92,unknown,2,> 7 years,0
+50.0,poor,29.0,2554.91,> 200 DM,3,1 - 4 years,0
+37.0,limited,74.0,1136.23,unknown,4,< 1 year,0
+48.0,limited,28.0,1472.26,unknown,4,> 7 years,1
+40.0,good,45.0,1620.43,unknown,2,> 7 years,0
+41.0,poor,48.0,1227.64,0 DM,4,4 - 7 years,0
+39.0,poor,21.0,1231.85,> 200 DM,1,4 - 7 years,0
+48.0,poor,45.0,2222.12,0 DM,1,unemployed,0
+46.0,good,44.0,1106.69,0 DM,1,1 - 4 years,1
+,good,33.0,4219.12,1 - 200 DM,4,unemployed,0
+51.0,poor,25.0,1344.07,> 200 DM,1,1 - 4 years,0
+35.0,poor,20.0,15157.03,1 - 200 DM,3,> 7 years,0
+23.0,limited,18.0,1820.02,unknown,4,< 1 year,0
+34.0,poor,45.0,2557.57,1 - 200 DM,4,> 7 years,0
+59.0,poor,23.0,1051.56,> 200 DM,4,unemployed,0
+,poor,73.0,7397.96,unknown,1,unemployed,0
+51.0,limited,,5052.69,unknown,2,> 7 years,0
+31.0,poor,55.0,2960.15,0 DM,3,unemployed,0
+49.0,poor,57.0,1016.97,> 200 DM,3,4 - 7 years,0
+27.0,good,46.0,2798.76,0 DM,3,4 - 7 years,1
+43.0,limited,69.0,1177.41,> 200 DM,3,< 1 year,0
+41.0,limited,24.0,6314.04,1 - 200 DM,2,unemployed,0
+19.0,good,31.0,4129.77,unknown,1,< 1 year,0
+20.0,poor,32.0,2596.8,unknown,2,unemployed,0
+9.0,good,25.0,500.87,unknown,2,4 - 7 years,0
+13.0,limited,35.0,1287.91,unknown,3,> 7 years,0
+29.0,good,36.0,3816.33,1 - 200 DM,4,> 7 years,1
+32.0,good,62.0,5368.88,> 200 DM,3,> 7 years,0
+15.0,good,35.0,5018.87,0 DM,3,4 - 7 years,0
+28.0,poor,68.0,867.13,> 200 DM,1,> 7 years,0
+39.0,good,62.0,2969.08,0 DM,3,4 - 7 years,0
+18.0,poor,70.0,4722.46,> 200 DM,2,4 - 7 years,0
+24.0,limited,24.0,830.54,unknown,1,> 7 years,0
+26.0,limited,75.0,2428.09,> 200 DM,1,< 1 year,1
+33.0,good,53.0,2916.09,unknown,4,1 - 4 years,0
+26.0,good,74.0,2007.21,0 DM,4,> 7 years,0
+,good,38.0,732.23,unknown,3,< 1 year,0
+24.0,limited,73.0,1974.95,> 200 DM,4,< 1 year,1
+29.0,poor,52.0,1972.88,> 200 DM,1,unemployed,0
+26.0,poor,22.0,2216.65,unknown,2,< 1 year,0
+16.0,limited,41.0,1692.13,> 200 DM,4,1 - 4 years,1
+43.0,poor,25.0,1829.95,1 - 200 DM,1,> 7 years,0
+18.0,good,72.0,2378.42,> 200 DM,3,unemployed,1
+22.0,poor,35.0,3253.85,> 200 DM,1,4 - 7 years,0
+49.0,,30.0,2002.44,unknown,2,4 - 7 years,0
+58.0,good,50.0,1870.06,1 - 200 DM,2,> 7 years,1
+42.0,poor,42.0,2591.6,> 200 DM,2,4 - 7 years,0
+56.0,poor,23.0,700.23,> 200 DM,4,unemployed,0
+52.0,good,,3327.82,0 DM,4,1 - 4 years,0
+32.0,good,67.0,2439.71,0 DM,3,> 7 years,0
+48.0,poor,61.0,2504.39,0 DM,3,> 7 years,0
+24.0,poor,53.0,4557.26,> 200 DM,1,4 - 7 years,0
+31.0,good,41.0,685.86,1 - 200 DM,1,> 7 years,0
+35.0,poor,49.0,676.55,unknown,1,4 - 7 years,0
+58.0,poor,48.0,2916.01,> 200 DM,4,unemployed,0
+52.0,poor,27.0,2429.34,0 DM,1,> 7 years,1
+32.0,limited,22.0,2726.07,0 DM,2,unemployed,0
+41.0,good,32.0,1807.35,1 - 200 DM,4,< 1 year,0
+17.0,poor,44.0,3758.71,unknown,3,< 1 year,0
+50.0,good,27.0,4474.79,0 DM,3,4 - 7 years,0
+36.0,limited,24.0,3342.88,0 DM,1,unemployed,0
+35.0,good,67.0,2060.0,0 DM,3,4 - 7 years,0
+48.0,limited,39.0,620.18,1 - 200 DM,3,> 7 years,0
+40.0,good,51.0,4023.89,unknown,2,4 - 7 years,1
+9.0,good,48.0,5399.83,> 200 DM,3,< 1 year,0
+21.0,poor,60.0,3710.65,1 - 200 DM,4,> 7 years,0
+15.0,limited,60.0,1377.79,0 DM,2,< 1 year,0
+46.0,good,35.0,3781.84,1 - 200 DM,2,4 - 7 years,1
+7.0,good,67.0,4269.89,> 200 DM,2,1 - 4 years,0
+17.0,limited,39.0,6722.6,1 - 200 DM,4,unemployed,0
+38.0,good,66.0,1380.95,> 200 DM,1,unemployed,0
+44.0,good,41.0,2106.55,unknown,4,unemployed,0
+33.0,limited,24.0,3966.85,0 DM,4,> 7 years,0
+53.0,good,62.0,2533.4,1 - 200 DM,2,> 7 years,0
+56.0,limited,19.0,1180.55,0 DM,3,1 - 4 years,0
+13.0,limited,62.0,3195.51,> 200 DM,4,> 7 years,0
+58.0,limited,20.0,3555.07,1 - 200 DM,4,unemployed,1
+39.0,good,29.0,2584.21,1 - 200 DM,2,> 7 years,0
+40.0,good,52.0,2815.04,0 DM,1,< 1 year,0
+11.0,poor,72.0,2062.84,0 DM,3,unemployed,0
+40.0,poor,41.0,6379.73,1 - 200 DM,1,4 - 7 years,0
+45.0,,24.0,1359.06,> 200 DM,1,< 1 year,1
+37.0,poor,31.0,1666.1,0 DM,4,< 1 year,1
+10.0,limited,69.0,2458.09,0 DM,2,4 - 7 years,1
+,limited,60.0,4321.34,1 - 200 DM,3,< 1 year,1
+57.0,limited,23.0,922.15,> 200 DM,1,4 - 7 years,1
+45.0,good,40.0,1041.39,1 - 200 DM,1,unemployed,0
+13.0,good,33.0,649.03,1 - 200 DM,1,unemployed,0
+58.0,good,28.0,2493.02,0 DM,2,< 1 year,0
+58.0,poor,67.0,1179.8,> 200 DM,1,4 - 7 years,0
+15.0,good,53.0,1900.82,unknown,2,< 1 year,0
+50.0,limited,28.0,3751.44,unknown,2,unemployed,0
+28.0,good,55.0,1608.4,> 200 DM,3,4 - 7 years,1
+38.0,limited,41.0,2836.52,> 200 DM,3,1 - 4 years,0
+30.0,limited,21.0,2009.08,1 - 200 DM,2,1 - 4 years,1
+49.0,good,44.0,3777.71,0 DM,2,< 1 year,0
+60.0,good,28.0,3323.7,1 - 200 DM,1,unemployed,0
+49.0,poor,32.0,1556.57,> 200 DM,2,unemployed,0
+57.0,poor,68.0,2187.2,> 200 DM,4,4 - 7 years,0
+58.0,good,59.0,4809.91,unknown,4,unemployed,0
+10.0,poor,25.0,3151.69,unknown,2,< 1 year,0
+19.0,good,67.0,984.34,0 DM,4,> 7 years,1
+45.0,good,51.0,3737.42,0 DM,3,< 1 year,0
+38.0,limited,68.0,1205.93,1 - 200 DM,1,4 - 7 years,0
+8.0,limited,61.0,6112.76,unknown,4,< 1 year,0
+11.0,good,37.0,4748.88,unknown,2,> 7 years,0
+34.0,limited,49.0,2946.65,0 DM,3,> 7 years,0
+39.0,poor,48.0,2703.23,0 DM,3,1 - 4 years,0
+15.0,poor,59.0,2130.54,> 200 DM,2,4 - 7 years,0
+15.0,good,32.0,3793.49,> 200 DM,3,1 - 4 years,0
+13.0,poor,37.0,1917.92,unknown,3,> 7 years,0
+37.0,poor,32.0,2844.44,unknown,2,< 1 year,0
+6.0,poor,35.0,4301.66,0 DM,2,> 7 years,0
+37.0,good,27.0,1693.96,0 DM,3,4 - 7 years,0
+32.0,good,20.0,1635.13,> 200 DM,1,4 - 7 years,0
+31.0,poor,72.0,1122.89,> 200 DM,1,< 1 year,0
+43.0,good,22.0,1221.81,unknown,4,> 7 years,0
+34.0,good,69.0,743.63,> 200 DM,2,4 - 7 years,0
+46.0,poor,18.0,3922.12,> 200 DM,3,> 7 years,0
+48.0,limited,63.0,7909.3,1 - 200 DM,3,> 7 years,0
+56.0,poor,37.0,6163.89,0 DM,4,unemployed,0
+49.0,good,48.0,848.14,unknown,3,> 7 years,1
+34.0,limited,34.0,3909.46,unknown,3,> 7 years,0
+33.0,poor,46.0,6150.99,0 DM,4,< 1 year,1
+18.0,limited,44.0,1813.61,> 200 DM,4,> 7 years,0
+38.0,good,48.0,2606.96,1 - 200 DM,1,1 - 4 years,0
+13.0,poor,,661.74,1 - 200 DM,3,< 1 year,0
+57.0,good,49.0,2902.65,unknown,1,< 1 year,0
+52.0,poor,65.0,1222.54,unknown,4,< 1 year,1
+12.0,good,43.0,2778.77,0 DM,1,unemployed,0
+49.0,limited,38.0,884.67,1 - 200 DM,1,4 - 7 years,0
+12.0,good,25.0,3473.29,unknown,1,4 - 7 years,0
+45.0,poor,38.0,4750.16,unknown,3,4 - 7 years,0
+10.0,good,25.0,1466.94,0 DM,1,1 - 4 years,0
+32.0,limited,28.0,1165.61,unknown,1,< 1 year,1
+42.0,poor,73.0,600.99,1 - 200 DM,3,4 - 7 years,0
+46.0,limited,,2052.54,> 200 DM,4,> 7 years,1
+29.0,poor,45.0,1672.31,0 DM,3,unemployed,0
+56.0,poor,66.0,890.55,> 200 DM,2,< 1 year,0
+48.0,good,73.0,3276.27,> 200 DM,3,> 7 years,0
+17.0,poor,26.0,1821.69,> 200 DM,3,> 7 years,0
+42.0,poor,27.0,1212.9,unknown,2,> 7 years,0
+46.0,good,39.0,1701.95,unknown,3,unemployed,0
+24.0,poor,50.0,4896.85,unknown,1,1 - 4 years,0
+46.0,good,73.0,3611.61,> 200 DM,1,unemployed,0
+55.0,good,30.0,2242.81,unknown,3,> 7 years,0
+50.0,good,27.0,3649.77,> 200 DM,2,1 - 4 years,0
+47.0,poor,32.0,1147.58,> 200 DM,1,< 1 year,0
+40.0,good,68.0,2492.5,> 200 DM,1,unemployed,0
+20.0,good,19.0,2685.87,unknown,4,4 - 7 years,0
+49.0,poor,40.0,1798.32,0 DM,2,> 7 years,1
+26.0,good,24.0,3239.09,> 200 DM,1,> 7 years,0
+35.0,good,27.0,1469.56,1 - 200 DM,3,> 7 years,1
+23.0,poor,71.0,3399.5,unknown,3,> 7 years,1
+23.0,good,18.0,3493.67,0 DM,2,4 - 7 years,0
+14.0,limited,36.0,366.44,> 200 DM,4,> 7 years,0
+58.0,poor,71.0,5290.66,0 DM,2,> 7 years,0
+14.0,limited,53.0,336.65,unknown,3,1 - 4 years,0
+10.0,limited,22.0,1635.28,unknown,3,4 - 7 years,0
+57.0,limited,44.0,4752.74,0 DM,3,> 7 years,0
+36.0,poor,74.0,1985.77,unknown,1,unemployed,0
+30.0,,41.0,941.03,1 - 200 DM,3,4 - 7 years,0
+46.0,limited,48.0,1198.79,unknown,3,< 1 year,1
+27.0,good,48.0,4757.55,> 200 DM,1,unemployed,0
+13.0,limited,56.0,699.96,0 DM,1,unemployed,0
+46.0,good,28.0,5083.95,0 DM,3,unemployed,1
+15.0,good,66.0,2354.74,1 - 200 DM,1,> 7 years,0
+36.0,good,75.0,1124.33,0 DM,4,4 - 7 years,0
+,good,26.0,1670.66,0 DM,1,unemployed,1
+57.0,good,65.0,1259.92,unknown,4,4 - 7 years,0
+25.0,limited,,4285.73,unknown,3,4 - 7 years,0
+48.0,good,61.0,3928.76,1 - 200 DM,2,1 - 4 years,0
+39.0,limited,39.0,798.35,0 DM,2,4 - 7 years,1
+32.0,poor,45.0,1877.44,0 DM,2,> 7 years,0
+13.0,limited,66.0,1392.6,unknown,3,1 - 4 years,0
+26.0,poor,26.0,5657.75,1 - 200 DM,4,4 - 7 years,0
+41.0,good,,1014.79,0 DM,1,1 - 4 years,0
+60.0,good,71.0,6924.0,1 - 200 DM,3,< 1 year,0
+6.0,poor,57.0,2388.35,1 - 200 DM,4,> 7 years,0
+45.0,limited,37.0,1146.81,> 200 DM,2,1 - 4 years,1
+52.0,good,50.0,1571.48,1 - 200 DM,3,4 - 7 years,0
+58.0,poor,20.0,1449.46,unknown,1,4 - 7 years,0
+29.0,limited,72.0,1065.82,> 200 DM,4,4 - 7 years,0
+12.0,limited,37.0,2595.77,unknown,1,4 - 7 years,0
+20.0,poor,21.0,1098.67,1 - 200 DM,2,4 - 7 years,0
+52.0,good,64.0,591.56,> 200 DM,2,1 - 4 years,0
+54.0,,56.0,1906.85,1 - 200 DM,2,4 - 7 years,0
+41.0,poor,54.0,756.08,> 200 DM,1,1 - 4 years,0
+12.0,poor,21.0,1496.82,> 200 DM,3,< 1 year,0
+12.0,good,61.0,1351.65,1 - 200 DM,1,4 - 7 years,0
+32.0,good,54.0,1385.35,unknown,4,> 7 years,0
+38.0,poor,64.0,8960.9,unknown,1,4 - 7 years,1
+7.0,limited,65.0,2531.75,unknown,2,4 - 7 years,0
+43.0,good,30.0,2862.62,0 DM,4,> 7 years,1
+35.0,poor,30.0,769.19,> 200 DM,1,< 1 year,1
+6.0,good,71.0,1595.47,0 DM,1,unemployed,0
+11.0,good,48.0,2807.21,0 DM,3,< 1 year,1
+30.0,poor,43.0,1253.95,unknown,1,4 - 7 years,0
+45.0,good,34.0,4403.88,0 DM,4,> 7 years,0
+51.0,good,55.0,1116.83,unknown,2,1 - 4 years,0
+29.0,limited,61.0,2026.09,1 - 200 DM,4,4 - 7 years,0
+22.0,good,18.0,1667.48,1 - 200 DM,1,unemployed,0
+59.0,good,50.0,2715.71,0 DM,1,4 - 7 years,0
+31.0,limited,75.0,1609.5,> 200 DM,4,4 - 7 years,0
+23.0,poor,34.0,2046.57,> 200 DM,4,1 - 4 years,0
+30.0,good,34.0,2093.34,1 - 200 DM,4,4 - 7 years,0
+6.0,poor,68.0,1514.21,unknown,2,1 - 4 years,0
+22.0,poor,21.0,3345.3,1 - 200 DM,2,1 - 4 years,0
+34.0,good,41.0,2849.65,> 200 DM,3,4 - 7 years,0
+56.0,poor,,2304.0,1 - 200 DM,2,4 - 7 years,0
+46.0,poor,64.0,1844.94,> 200 DM,1,< 1 year,0
+48.0,good,25.0,4095.95,0 DM,2,< 1 year,0
+35.0,limited,,2093.74,1 - 200 DM,3,1 - 4 years,0
+12.0,poor,26.0,1999.49,> 200 DM,1,< 1 year,0
+27.0,limited,63.0,2612.46,> 200 DM,2,< 1 year,0
+60.0,good,54.0,7352.39,1 - 200 DM,2,< 1 year,0
+8.0,good,46.0,1021.24,> 200 DM,1,< 1 year,0
+54.0,limited,40.0,4025.51,> 200 DM,1,1 - 4 years,1
+43.0,limited,26.0,712.97,1 - 200 DM,2,1 - 4 years,0
+21.0,good,71.0,2810.81,0 DM,1,4 - 7 years,0
+48.0,limited,55.0,6794.06,> 200 DM,2,< 1 year,0
+52.0,good,36.0,3353.08,unknown,3,> 7 years,0
+8.0,poor,42.0,2726.86,unknown,4,1 - 4 years,0
+11.0,good,60.0,1695.46,> 200 DM,1,4 - 7 years,0
+42.0,poor,59.0,2490.36,unknown,2,unemployed,0
+60.0,limited,44.0,2071.77,unknown,1,unemployed,0
+7.0,limited,35.0,1464.27,> 200 DM,2,1 - 4 years,0
+42.0,limited,56.0,2021.47,0 DM,2,< 1 year,0
+13.0,good,56.0,2776.5,> 200 DM,4,1 - 4 years,1
+41.0,limited,52.0,1482.24,> 200 DM,2,unemployed,0
+40.0,poor,22.0,1445.08,1 - 200 DM,4,1 - 4 years,0
+10.0,poor,45.0,1008.12,unknown,1,4 - 7 years,0
+43.0,limited,53.0,3146.26,unknown,1,4 - 7 years,1
+,poor,73.0,3478.86,1 - 200 DM,1,< 1 year,0
+53.0,poor,48.0,2837.22,1 - 200 DM,2,< 1 year,1
+7.0,poor,37.0,4570.42,0 DM,1,1 - 4 years,0
+19.0,poor,50.0,2584.05,0 DM,1,1 - 4 years,0
+19.0,limited,28.0,3148.9,1 - 200 DM,1,4 - 7 years,0
+30.0,poor,23.0,2973.5,1 - 200 DM,4,< 1 year,0
+13.0,poor,57.0,2299.62,1 - 200 DM,4,4 - 7 years,0
+52.0,good,75.0,1728.42,0 DM,1,> 7 years,1
+48.0,poor,67.0,10292.79,1 - 200 DM,4,< 1 year,0
+50.0,limited,51.0,1819.35,> 200 DM,1,> 7 years,1
+16.0,,20.0,1583.16,1 - 200 DM,2,< 1 year,0
+6.0,good,75.0,3236.04,> 200 DM,2,< 1 year,0
+,poor,44.0,2874.71,1 - 200 DM,2,4 - 7 years,0
+21.0,limited,34.0,979.35,> 200 DM,4,4 - 7 years,0
+42.0,good,69.0,5063.13,> 200 DM,3,1 - 4 years,1
+56.0,good,61.0,2295.66,unknown,3,< 1 year,0
+7.0,poor,61.0,1185.47,0 DM,3,unemployed,0
+6.0,poor,34.0,5285.43,unknown,3,> 7 years,0
+6.0,good,75.0,3665.39,1 - 200 DM,1,> 7 years,0
+14.0,limited,44.0,1072.82,0 DM,2,> 7 years,0
+8.0,limited,48.0,7747.84,> 200 DM,1,1 - 4 years,0
+51.0,poor,61.0,3745.16,0 DM,3,> 7 years,0
+39.0,poor,56.0,2424.48,0 DM,2,1 - 4 years,0
+59.0,good,27.0,6861.23,unknown,3,unemployed,0
+50.0,limited,35.0,2706.86,0 DM,3,unemployed,0
+58.0,limited,38.0,2396.46,> 200 DM,2,< 1 year,0
+19.0,poor,72.0,1588.91,0 DM,1,< 1 year,0
+21.0,poor,59.0,3562.45,0 DM,4,> 7 years,1
+52.0,limited,39.0,3326.89,0 DM,2,< 1 year,0
+19.0,limited,60.0,2464.0,0 DM,1,4 - 7 years,1
+9.0,good,60.0,1460.46,1 - 200 DM,2,< 1 year,0
+42.0,limited,40.0,2655.68,1 - 200 DM,4,4 - 7 years,0
+50.0,limited,,2332.35,0 DM,2,1 - 4 years,0
+59.0,limited,69.0,1025.81,1 - 200 DM,4,unemployed,0
+57.0,poor,50.0,937.6,1 - 200 DM,2,1 - 4 years,1
+12.0,poor,26.0,3523.99,> 200 DM,4,unemployed,0
+48.0,good,,449.79,unknown,3,> 7 years,0
+52.0,poor,52.0,2789.22,> 200 DM,1,4 - 7 years,0
+,good,47.0,1788.7,unknown,3,> 7 years,0
+51.0,poor,60.0,5712.2,0 DM,2,> 7 years,0
+52.0,good,70.0,1770.9,0 DM,1,< 1 year,0
+30.0,poor,37.0,3746.83,unknown,3,4 - 7 years,0
+8.0,poor,42.0,1885.61,1 - 200 DM,1,unemployed,0
+31.0,good,28.0,2627.89,unknown,3,> 7 years,0
+17.0,limited,55.0,3940.03,1 - 200 DM,4,4 - 7 years,0
+12.0,poor,41.0,1806.85,0 DM,1,4 - 7 years,0
+12.0,limited,37.0,4664.62,unknown,2,> 7 years,0
+,good,58.0,1279.34,> 200 DM,3,> 7 years,0
+33.0,limited,41.0,2955.68,unknown,1,> 7 years,0
+35.0,good,44.0,4445.8,1 - 200 DM,2,unemployed,0
+46.0,poor,43.0,3748.18,0 DM,2,unemployed,0
+36.0,poor,32.0,8481.89,> 200 DM,1,> 7 years,0
+40.0,poor,25.0,1485.88,0 DM,4,< 1 year,0
+10.0,,65.0,995.81,> 200 DM,2,1 - 4 years,0
+52.0,limited,23.0,1278.81,1 - 200 DM,4,unemployed,1
+30.0,good,36.0,3749.16,unknown,3,4 - 7 years,0
+14.0,limited,56.0,3373.31,unknown,4,> 7 years,0
+50.0,good,25.0,2608.33,1 - 200 DM,4,> 7 years,0
+46.0,good,56.0,1176.24,unknown,3,1 - 4 years,0
+8.0,good,60.0,4017.7,0 DM,2,4 - 7 years,1
+16.0,limited,56.0,1100.96,0 DM,2,1 - 4 years,0
+6.0,good,35.0,5183.92,unknown,4,1 - 4 years,0
+20.0,poor,19.0,15636.06,> 200 DM,2,1 - 4 years,1
+11.0,poor,69.0,3097.01,1 - 200 DM,3,> 7 years,0
+45.0,limited,36.0,3565.36,0 DM,1,< 1 year,0
+34.0,poor,64.0,1771.6,1 - 200 DM,4,1 - 4 years,0
+59.0,limited,29.0,752.47,> 200 DM,3,4 - 7 years,0
+47.0,limited,27.0,1649.51,unknown,2,1 - 4 years,0
+39.0,limited,63.0,1199.45,unknown,3,unemployed,0
+34.0,limited,72.0,952.84,1 - 200 DM,2,< 1 year,1
+8.0,good,67.0,7476.6,1 - 200 DM,1,4 - 7 years,1
+9.0,poor,61.0,2914.23,0 DM,4,4 - 7 years,0
+39.0,poor,32.0,3123.77,0 DM,4,4 - 7 years,0
+6.0,good,70.0,1996.47,1 - 200 DM,4,> 7 years,0
+8.0,good,56.0,2181.21,> 200 DM,2,4 - 7 years,0
+18.0,good,27.0,4568.58,0 DM,2,1 - 4 years,0
+54.0,limited,25.0,2389.84,1 - 200 DM,1,< 1 year,0
+31.0,poor,68.0,3445.94,> 200 DM,3,< 1 year,0
+45.0,,33.0,2148.65,unknown,2,> 7 years,0
+28.0,limited,62.0,1953.94,unknown,4,1 - 4 years,0
+15.0,limited,26.0,978.0,1 - 200 DM,4,4 - 7 years,0
+26.0,limited,34.0,674.83,1 - 200 DM,1,unemployed,0
+11.0,limited,34.0,2059.02,unknown,4,unemployed,0
+48.0,limited,34.0,2531.89,> 200 DM,1,< 1 year,0
+16.0,good,57.0,1057.87,1 - 200 DM,2,unemployed,0
+26.0,limited,71.0,2386.52,> 200 DM,2,4 - 7 years,0
+59.0,poor,70.0,2527.38,0 DM,4,4 - 7 years,1
+38.0,poor,61.0,601.0,1 - 200 DM,3,1 - 4 years,0
+31.0,poor,29.0,1346.37,1 - 200 DM,4,< 1 year,0
+35.0,poor,73.0,3180.27,unknown,3,1 - 4 years,1
+49.0,poor,49.0,3138.78,0 DM,4,unemployed,0
+19.0,limited,49.0,1152.99,unknown,4,1 - 4 years,0
+41.0,good,58.0,2705.36,1 - 200 DM,4,unemployed,0
+53.0,good,62.0,4743.66,0 DM,2,unemployed,0
+37.0,good,73.0,4044.44,> 200 DM,2,unemployed,0
+30.0,limited,51.0,2294.03,> 200 DM,4,unemployed,0
+13.0,poor,53.0,1800.49,0 DM,4,1 - 4 years,0
+19.0,poor,61.0,1621.21,0 DM,4,1 - 4 years,0
+58.0,poor,32.0,3307.95,0 DM,3,4 - 7 years,0
+35.0,poor,35.0,2770.6,1 - 200 DM,4,1 - 4 years,0
+22.0,poor,54.0,3674.28,0 DM,3,unemployed,0
+29.0,good,21.0,2659.03,> 200 DM,3,unemployed,0
+37.0,good,36.0,4155.54,0 DM,1,4 - 7 years,0
+35.0,limited,59.0,2595.37,unknown,3,> 7 years,0
+44.0,poor,74.0,4064.51,unknown,3,< 1 year,0
+20.0,good,48.0,4298.56,> 200 DM,4,< 1 year,0
+41.0,poor,41.0,1446.73,unknown,4,< 1 year,0
+30.0,poor,43.0,753.48,unknown,2,< 1 year,0
+57.0,good,57.0,6655.98,0 DM,2,< 1 year,0
+14.0,good,49.0,2883.7,1 - 200 DM,4,1 - 4 years,0
+14.0,limited,,800.78,unknown,4,4 - 7 years,0
+,good,49.0,1534.59,1 - 200 DM,1,4 - 7 years,0
+33.0,good,41.0,4030.79,> 200 DM,2,> 7 years,0
+43.0,poor,58.0,2034.92,unknown,4,< 1 year,0
+28.0,poor,68.0,1749.63,unknown,1,1 - 4 years,0
+56.0,limited,73.0,6066.72,1 - 200 DM,4,< 1 year,0
+32.0,limited,53.0,1235.54,1 - 200 DM,1,unemployed,0
+13.0,good,39.0,1452.73,0 DM,1,< 1 year,0
+12.0,poor,43.0,2800.07,1 - 200 DM,4,< 1 year,0
+59.0,good,28.0,3145.71,1 - 200 DM,3,1 - 4 years,0
+13.0,poor,72.0,3369.85,1 - 200 DM,3,unemployed,0
+58.0,good,67.0,4412.98,1 - 200 DM,4,4 - 7 years,0
+21.0,good,67.0,2776.86,unknown,2,> 7 years,0
+11.0,limited,37.0,3354.64,unknown,3,> 7 years,0
+22.0,good,36.0,2062.17,> 200 DM,3,unemployed,0
+39.0,poor,67.0,2542.12,0 DM,3,unemployed,0
+29.0,good,49.0,2617.3,1 - 200 DM,2,> 7 years,0
+49.0,limited,58.0,2806.84,> 200 DM,3,> 7 years,0
+39.0,limited,46.0,4032.54,0 DM,2,1 - 4 years,0
+28.0,poor,43.0,3501.14,1 - 200 DM,3,< 1 year,1
+40.0,limited,54.0,2511.77,> 200 DM,4,1 - 4 years,0
+59.0,,65.0,1442.41,unknown,2,1 - 4 years,1
+28.0,good,37.0,2550.35,unknown,3,> 7 years,0
+14.0,good,64.0,2396.56,1 - 200 DM,4,1 - 4 years,0
+28.0,good,32.0,2767.14,1 - 200 DM,4,unemployed,0
+52.0,good,41.0,10241.89,1 - 200 DM,4,4 - 7 years,0
+17.0,good,70.0,1736.36,> 200 DM,3,4 - 7 years,1
+58.0,good,73.0,3211.48,1 - 200 DM,2,< 1 year,0
+,poor,71.0,4887.81,1 - 200 DM,4,unemployed,1
+39.0,good,36.0,2601.13,0 DM,3,unemployed,0
+23.0,poor,66.0,11154.51,1 - 200 DM,1,> 7 years,1
+56.0,poor,72.0,1908.88,0 DM,2,1 - 4 years,1
+7.0,limited,74.0,3012.9,> 200 DM,2,1 - 4 years,0
+22.0,poor,19.0,1452.11,unknown,4,> 7 years,0
+29.0,limited,61.0,1942.07,unknown,1,unemployed,0
+32.0,poor,75.0,2869.25,1 - 200 DM,3,< 1 year,0
+32.0,good,62.0,4230.59,unknown,3,> 7 years,1
+14.0,poor,31.0,3003.13,unknown,1,1 - 4 years,0
+18.0,poor,62.0,5532.66,1 - 200 DM,3,unemployed,0
+11.0,poor,24.0,2294.51,unknown,4,4 - 7 years,0
+37.0,poor,45.0,1966.66,1 - 200 DM,3,unemployed,0
+25.0,poor,54.0,14151.7,unknown,3,4 - 7 years,1
+37.0,good,44.0,3153.46,1 - 200 DM,2,4 - 7 years,0
+38.0,good,58.0,1528.95,1 - 200 DM,1,> 7 years,0
+44.0,limited,31.0,1554.22,0 DM,1,1 - 4 years,1
+36.0,limited,53.0,1322.47,unknown,2,< 1 year,0
+41.0,good,55.0,4486.24,1 - 200 DM,3,> 7 years,0
+38.0,limited,54.0,1925.91,unknown,1,1 - 4 years,0
+41.0,limited,34.0,2651.25,0 DM,4,4 - 7 years,0
+39.0,good,35.0,2341.9,> 200 DM,3,unemployed,0
+23.0,limited,32.0,3926.37,1 - 200 DM,2,4 - 7 years,0
+19.0,poor,44.0,1407.56,1 - 200 DM,4,1 - 4 years,0
+49.0,limited,51.0,1213.03,0 DM,1,< 1 year,1
+24.0,poor,39.0,2823.67,0 DM,4,4 - 7 years,1
+36.0,poor,41.0,3606.97,1 - 200 DM,2,unemployed,0
+16.0,,34.0,3029.48,1 - 200 DM,2,4 - 7 years,0
+29.0,good,30.0,1442.1,unknown,2,> 7 years,0
+35.0,poor,56.0,3790.92,1 - 200 DM,4,1 - 4 years,0
+,limited,65.0,1504.91,0 DM,2,unemployed,0
+34.0,,34.0,1738.89,1 - 200 DM,4,1 - 4 years,0
+25.0,limited,67.0,1321.38,> 200 DM,2,1 - 4 years,0
+58.0,poor,51.0,5685.95,1 - 200 DM,2,1 - 4 years,0
+34.0,poor,27.0,3683.89,unknown,3,< 1 year,0
+50.0,poor,,3616.44,1 - 200 DM,3,4 - 7 years,0
+46.0,limited,18.0,5490.02,> 200 DM,2,< 1 year,0
+36.0,good,20.0,15187.41,0 DM,1,1 - 4 years,0
+54.0,good,37.0,803.52,0 DM,2,1 - 4 years,0
+13.0,limited,44.0,1510.29,unknown,3,4 - 7 years,0
+56.0,poor,64.0,1635.14,1 - 200 DM,1,4 - 7 years,1
+52.0,poor,25.0,1403.84,1 - 200 DM,1,> 7 years,1
+33.0,limited,66.0,1211.45,> 200 DM,4,4 - 7 years,0
+46.0,limited,31.0,2008.66,0 DM,1,4 - 7 years,0
+34.0,good,26.0,1106.78,> 200 DM,2,> 7 years,0
+20.0,poor,58.0,3034.43,1 - 200 DM,4,< 1 year,0
+49.0,poor,62.0,2524.01,0 DM,2,< 1 year,0
+19.0,limited,53.0,3336.47,1 - 200 DM,2,1 - 4 years,0
+23.0,limited,24.0,3394.88,1 - 200 DM,1,1 - 4 years,1
+34.0,poor,24.0,3611.77,0 DM,4,4 - 7 years,1
+52.0,limited,40.0,1914.64,> 200 DM,3,unemployed,1
+27.0,poor,44.0,9688.97,> 200 DM,4,unemployed,0
+33.0,limited,75.0,2842.33,1 - 200 DM,4,4 - 7 years,0
+8.0,poor,34.0,727.33,unknown,2,> 7 years,1
+12.0,poor,29.0,1272.14,> 200 DM,1,< 1 year,0
+9.0,poor,72.0,787.35,unknown,2,< 1 year,0
+9.0,limited,26.0,2468.26,0 DM,1,1 - 4 years,0
+53.0,poor,19.0,2254.82,unknown,3,1 - 4 years,0
+52.0,good,42.0,1799.97,1 - 200 DM,1,unemployed,0
+51.0,good,41.0,9019.12,> 200 DM,4,1 - 4 years,0
+9.0,poor,53.0,3487.15,unknown,3,> 7 years,0
+10.0,limited,68.0,3912.63,1 - 200 DM,2,4 - 7 years,0
+21.0,poor,72.0,1332.49,1 - 200 DM,4,> 7 years,0
+37.0,poor,34.0,1274.81,0 DM,4,4 - 7 years,0
+24.0,limited,74.0,2499.69,> 200 DM,2,> 7 years,0
+32.0,poor,54.0,2731.09,unknown,1,< 1 year,1
+15.0,limited,22.0,730.26,1 - 200 DM,2,unemployed,0
+46.0,poor,72.0,2170.69,0 DM,3,unemployed,0
+23.0,limited,26.0,2463.03,1 - 200 DM,4,> 7 years,0
+9.0,limited,52.0,2122.08,1 - 200 DM,2,4 - 7 years,0
+,poor,63.0,1438.41,unknown,3,< 1 year,1
+55.0,good,32.0,1718.66,0 DM,2,> 7 years,0
+6.0,poor,33.0,2175.56,1 - 200 DM,1,< 1 year,0
+30.0,good,45.0,2588.98,> 200 DM,2,1 - 4 years,0
+51.0,poor,69.0,3615.97,0 DM,1,< 1 year,0
+,good,30.0,4927.35,unknown,2,unemployed,1
+53.0,poor,56.0,2015.6,unknown,2,< 1 year,0
+28.0,poor,44.0,1814.38,1 - 200 DM,2,< 1 year,1
+26.0,good,24.0,3243.72,> 200 DM,4,1 - 4 years,1
+45.0,,59.0,3630.22,unknown,2,unemployed,0
+14.0,poor,66.0,1840.46,> 200 DM,3,< 1 year,0
+19.0,good,51.0,4079.61,0 DM,3,1 - 4 years,0
+39.0,,28.0,4613.45,0 DM,3,< 1 year,0
+42.0,limited,27.0,5651.05,1 - 200 DM,2,4 - 7 years,0
+12.0,limited,42.0,7753.57,0 DM,4,4 - 7 years,0
+33.0,good,47.0,1389.68,1 - 200 DM,1,> 7 years,0
+26.0,limited,50.0,2462.75,> 200 DM,2,> 7 years,0
+33.0,poor,32.0,2458.56,> 200 DM,4,< 1 year,0
+58.0,,47.0,2289.87,0 DM,2,4 - 7 years,0
+,good,35.0,1600.35,0 DM,3,4 - 7 years,0
+60.0,poor,57.0,929.26,0 DM,1,1 - 4 years,1
+30.0,limited,64.0,2592.15,1 - 200 DM,3,4 - 7 years,0
+48.0,good,55.0,1481.14,unknown,4,unemployed,0
+29.0,good,18.0,2580.91,1 - 200 DM,3,< 1 year,0
+23.0,poor,75.0,1456.62,1 - 200 DM,3,> 7 years,0
+48.0,poor,19.0,1194.19,> 200 DM,4,> 7 years,0
+43.0,poor,75.0,2842.09,0 DM,2,unemployed,0
+13.0,poor,19.0,2692.16,0 DM,2,1 - 4 years,0
+44.0,good,47.0,3556.5,0 DM,1,< 1 year,1
+47.0,good,24.0,10105.26,> 200 DM,3,unemployed,1
+27.0,good,23.0,2922.63,1 - 200 DM,3,unemployed,0
+56.0,good,57.0,3345.27,> 200 DM,4,1 - 4 years,0
+41.0,limited,60.0,1211.46,> 200 DM,3,4 - 7 years,0
+24.0,limited,24.0,1057.34,1 - 200 DM,1,1 - 4 years,0
+6.0,poor,74.0,6828.36,unknown,3,< 1 year,0
+43.0,good,36.0,1339.08,unknown,4,4 - 7 years,0
+17.0,poor,36.0,1238.23,0 DM,1,4 - 7 years,0
+47.0,limited,35.0,2379.36,unknown,2,> 7 years,0
+34.0,good,44.0,2301.63,0 DM,4,< 1 year,0
+31.0,poor,28.0,1357.46,0 DM,2,< 1 year,0
+15.0,poor,42.0,2001.73,> 200 DM,4,1 - 4 years,0
+45.0,good,30.0,5426.74,0 DM,3,1 - 4 years,0
+15.0,poor,20.0,1445.35,1 - 200 DM,3,1 - 4 years,0
+28.0,poor,39.0,986.45,0 DM,3,> 7 years,0
+51.0,poor,56.0,4503.84,1 - 200 DM,3,unemployed,0
+56.0,limited,62.0,3361.0,unknown,4,1 - 4 years,0
+60.0,poor,38.0,1630.53,unknown,4,1 - 4 years,1
+58.0,good,36.0,872.7,0 DM,2,< 1 year,0
+36.0,good,63.0,1504.17,> 200 DM,4,4 - 7 years,0
+17.0,poor,57.0,2355.34,1 - 200 DM,3,> 7 years,0
+52.0,limited,66.0,5206.62,1 - 200 DM,3,1 - 4 years,1
+50.0,good,70.0,1244.17,> 200 DM,2,unemployed,0
+60.0,good,65.0,2310.14,unknown,2,unemployed,0
+41.0,limited,72.0,3785.16,1 - 200 DM,3,1 - 4 years,0
+13.0,poor,42.0,519.14,0 DM,2,4 - 7 years,0
+33.0,good,40.0,4778.88,unknown,2,< 1 year,0
+30.0,good,36.0,1131.62,unknown,4,< 1 year,0
+52.0,poor,31.0,3028.42,1 - 200 DM,2,> 7 years,0
+27.0,poor,61.0,2865.06,> 200 DM,3,unemployed,0
+24.0,poor,59.0,4939.31,unknown,1,unemployed,0
+10.0,good,64.0,3491.55,> 200 DM,1,unemployed,0
+51.0,poor,27.0,520.49,1 - 200 DM,4,> 7 years,1
+47.0,limited,46.0,1465.41,unknown,1,1 - 4 years,0
+8.0,good,30.0,2670.0,unknown,4,unemployed,1
+29.0,poor,69.0,2150.09,> 200 DM,4,< 1 year,1
+32.0,good,,3329.07,0 DM,2,> 7 years,1
+31.0,poor,26.0,4076.88,1 - 200 DM,4,4 - 7 years,0
+56.0,good,51.0,3624.58,> 200 DM,2,< 1 year,0
+,good,68.0,2123.29,1 - 200 DM,4,< 1 year,0
+22.0,,71.0,735.01,> 200 DM,1,unemployed,0
+15.0,,23.0,1815.18,> 200 DM,2,4 - 7 years,0
+19.0,limited,36.0,3199.15,0 DM,2,unemployed,0
+55.0,poor,26.0,1201.36,> 200 DM,4,< 1 year,1
+57.0,poor,35.0,3678.75,> 200 DM,1,< 1 year,0
+8.0,poor,48.0,4404.82,0 DM,4,4 - 7 years,0
+40.0,poor,34.0,2650.39,> 200 DM,1,4 - 7 years,0
+18.0,poor,21.0,333.13,> 200 DM,2,4 - 7 years,0
+16.0,limited,47.0,1063.42,0 DM,3,< 1 year,0
+22.0,limited,21.0,8316.72,> 200 DM,1,< 1 year,0
+16.0,good,31.0,1710.86,1 - 200 DM,2,< 1 year,0
+32.0,limited,18.0,672.03,1 - 200 DM,4,unemployed,0
+,good,23.0,5447.49,> 200 DM,4,4 - 7 years,0
+38.0,limited,43.0,2461.88,0 DM,1,1 - 4 years,0
+45.0,good,67.0,5005.09,0 DM,3,1 - 4 years,0
+33.0,good,62.0,2922.0,1 - 200 DM,3,> 7 years,0
+6.0,limited,23.0,3288.09,unknown,1,unemployed,0
+10.0,limited,20.0,3090.09,0 DM,3,> 7 years,0
+20.0,good,37.0,3840.54,unknown,3,4 - 7 years,0
+19.0,poor,55.0,10724.97,0 DM,3,< 1 year,0
+52.0,poor,61.0,4587.79,1 - 200 DM,2,4 - 7 years,0
+52.0,poor,65.0,873.74,1 - 200 DM,2,4 - 7 years,0
+52.0,poor,37.0,3262.76,1 - 200 DM,3,< 1 year,1
+41.0,limited,27.0,5125.39,0 DM,3,< 1 year,0
+36.0,limited,19.0,5333.46,unknown,1,> 7 years,1
+41.0,poor,26.0,1849.57,1 - 200 DM,1,unemployed,0
+28.0,limited,21.0,5204.16,unknown,3,unemployed,0
+42.0,limited,67.0,4460.57,> 200 DM,4,4 - 7 years,0
+49.0,good,33.0,12992.61,> 200 DM,1,> 7 years,0
+47.0,limited,65.0,1498.92,1 - 200 DM,1,1 - 4 years,1
+39.0,limited,50.0,1754.94,> 200 DM,4,unemployed,0
+9.0,good,49.0,2000.24,unknown,3,1 - 4 years,0
+45.0,limited,44.0,1774.64,unknown,4,< 1 year,1
+26.0,limited,65.0,1368.52,unknown,4,> 7 years,0
+46.0,poor,20.0,405.15,0 DM,4,4 - 7 years,0
+35.0,poor,23.0,1839.86,> 200 DM,1,< 1 year,0
+54.0,poor,42.0,3102.87,1 - 200 DM,2,4 - 7 years,0
+24.0,limited,40.0,1771.19,unknown,1,4 - 7 years,0
+57.0,limited,49.0,8586.94,unknown,1,4 - 7 years,0
+52.0,limited,60.0,2461.91,unknown,4,< 1 year,1
+24.0,poor,52.0,5648.63,0 DM,3,1 - 4 years,0
+32.0,,32.0,2892.64,1 - 200 DM,1,unemployed,0
+35.0,limited,36.0,4176.23,> 200 DM,1,1 - 4 years,0
+48.0,good,61.0,2926.34,> 200 DM,1,< 1 year,0
+43.0,good,29.0,5941.46,1 - 200 DM,2,1 - 4 years,1
+52.0,good,47.0,2530.98,0 DM,2,> 7 years,0
+26.0,limited,49.0,3369.36,0 DM,2,> 7 years,1
+33.0,poor,61.0,3096.77,> 200 DM,4,1 - 4 years,0
+29.0,good,59.0,2023.56,1 - 200 DM,1,4 - 7 years,1
+56.0,good,44.0,3175.56,1 - 200 DM,3,unemployed,0
+,poor,35.0,10429.06,unknown,2,1 - 4 years,1
+38.0,limited,39.0,2047.23,0 DM,2,4 - 7 years,0
+12.0,limited,,3205.59,unknown,4,4 - 7 years,0
+52.0,poor,30.0,5527.86,1 - 200 DM,4,> 7 years,0
+27.0,poor,54.0,5121.31,unknown,1,1 - 4 years,0
+,limited,30.0,2459.26,unknown,2,> 7 years,0
+38.0,limited,55.0,518.43,> 200 DM,1,> 7 years,0
+33.0,good,61.0,3414.74,1 - 200 DM,2,1 - 4 years,0
+52.0,limited,73.0,576.71,0 DM,3,unemployed,1
+35.0,poor,24.0,6345.23,0 DM,2,< 1 year,0
+34.0,limited,62.0,2724.82,unknown,2,4 - 7 years,0
+11.0,good,22.0,4674.08,0 DM,2,1 - 4 years,0
+7.0,good,37.0,1357.81,1 - 200 DM,2,> 7 years,0
+27.0,limited,28.0,889.69,1 - 200 DM,2,> 7 years,0
+60.0,limited,27.0,2891.38,> 200 DM,2,unemployed,0
+56.0,good,28.0,2387.87,unknown,3,> 7 years,0
+40.0,limited,20.0,1773.12,> 200 DM,1,< 1 year,1
+40.0,good,65.0,2578.67,unknown,1,> 7 years,0
+27.0,limited,21.0,14747.57,> 200 DM,3,1 - 4 years,0
+15.0,good,41.0,4198.33,1 - 200 DM,3,1 - 4 years,0
+6.0,good,58.0,4827.93,0 DM,2,unemployed,0
+24.0,limited,75.0,4224.09,0 DM,1,unemployed,0
+23.0,limited,67.0,6384.64,1 - 200 DM,3,1 - 4 years,0
+16.0,good,25.0,2156.96,0 DM,2,1 - 4 years,0
+20.0,good,75.0,641.88,1 - 200 DM,3,1 - 4 years,0
+7.0,poor,55.0,2159.04,1 - 200 DM,1,unemployed,0
+39.0,good,28.0,4136.59,1 - 200 DM,1,1 - 4 years,0
+57.0,limited,44.0,1299.36,unknown,3,unemployed,1
+43.0,limited,71.0,2176.26,unknown,2,unemployed,1
+30.0,limited,,1556.74,> 200 DM,3,1 - 4 years,1
+29.0,good,28.0,6478.98,0 DM,3,4 - 7 years,1
+22.0,good,68.0,3972.48,1 - 200 DM,2,4 - 7 years,0
+13.0,limited,73.0,3727.53,> 200 DM,1,> 7 years,0
+38.0,good,74.0,3655.69,> 200 DM,1,> 7 years,0
+37.0,poor,73.0,2382.22,1 - 200 DM,4,< 1 year,0
+6.0,poor,68.0,2775.02,1 - 200 DM,1,4 - 7 years,0
+28.0,limited,44.0,1129.61,1 - 200 DM,3,unemployed,1
+,good,29.0,589.23,> 200 DM,4,> 7 years,0
+15.0,limited,53.0,2690.69,0 DM,4,< 1 year,0
+44.0,limited,30.0,3012.71,> 200 DM,2,4 - 7 years,0
+34.0,good,45.0,5356.26,0 DM,1,> 7 years,0
+40.0,,56.0,6777.53,> 200 DM,4,4 - 7 years,0
+45.0,good,72.0,6771.64,unknown,3,> 7 years,0
+59.0,poor,34.0,1275.74,> 200 DM,2,unemployed,0
+50.0,good,32.0,1941.13,1 - 200 DM,3,unemployed,0
+40.0,good,,3334.96,unknown,1,4 - 7 years,1

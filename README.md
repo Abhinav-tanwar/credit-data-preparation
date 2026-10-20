@@ -1,2 +1,3 @@
-# credit-data-preparation
-Schema-aware credit preprocessing with train-only transforms and synthetic demo data
+# Credit Data Preparation
+
+Python analysis project. Input provenance and scope are documented in data/README.md.
